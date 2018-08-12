@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [Ruslan Safiullin](https://up.htmlacademy.ru/htmlcss/22/user/784163).
+* Студент: [Ruslan Safiullin](https://up.htmlacademy.ru/htmlcss/21/user/784163).
 
 ---
 
